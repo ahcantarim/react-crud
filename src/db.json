@@ -1,21 +1,21 @@
 {
   "clientes": [
     {
-      "cpf": "39698045821",
-      "nome": "André Henrique Cantarim",
+      "cpf": "12345678911",
+      "nome": "Usuário 1",
       "sexo": "M",
       "dat_nasc": "25/04/1990",
-      "email": "andre.cantarim@gmail.com",
-      "phone": "11996834418",
+      "email": "usuario1@email.com",
+      "phone": "1145674567",
       "id": 1
     },
     {
-      "cpf": "33991077817",
-      "nome": "Natália Gothardo Cantarim",
+      "cpf": "12345678922",
+      "nome": "Usuário 2",
       "sexo": "F",
       "dat_nasc": "05/07/1985",
-      "email": "nacarter27@gmail.com",
-      "phone": "11985489891",
+      "email": "usuario2@email.com",
+      "phone": "1145674567",
       "id": 2
     }
   ]
